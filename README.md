@@ -1,0 +1,2 @@
+# getGlobals
+getGlobals
